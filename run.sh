@@ -7,5 +7,5 @@ docker run \
   --volume /home/murasaki/.factorio/server-settings:/factorio/server-settings \
   factorio:latest \
   --server-settings /factorio/server-settings/server-settings.json \
-  --start-server /factorio/saves/marathon-seablock.zip \
+  --start-server /factorio/saves/greg-mega.zip \
   --mod-directory /factorio/mods
